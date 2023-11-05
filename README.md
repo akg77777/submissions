@@ -15,7 +15,7 @@
 今回製作したゲームのソースコード
 (中のexampleフォルダは用いた画像が入っている、また、画像の引用元はこちらのREADMEの一番下に記載)
   
-- Explanation.md
+- Explanation/Explanation.md
 今回の製作作品の説明
 
 - execute_movie.txt
