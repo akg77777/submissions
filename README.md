@@ -82,11 +82,9 @@
 |OS|Windows 7 SP1 (64-bit) / Windows 8.1 (64-bit) / Windows 10 (64-bit) / Windows 11|
 |CPU|IntelまたはAMD製のCPU|
 |映像出力|モニタなど、何らかの映像出力装置があること|
-
 <br><br>
 
 ### その他情報
-<br>
 
 #### ライセンス情報
 Siv3Dのライセンス情報:
@@ -97,16 +95,16 @@ Siv3Dのライセンス情報:
 以下詳細
 
 - blockフォルダ
-Star.png, Rick.png, Coo.png, Kine.png, Bomb.png, Hard.blockは[任天堂](https://www.nintendo.co.jp/wii/vc/vc_kak/vc_kak_03.html)から全て引用
-同フォルダ内のGooey.pngは[Nintendo公式チャンネル](https://www.youtube.com/watch?v=CXEfJ2qdVW8&t=9s)から引用
+Star.png, Rick.png, Coo.png, Kine.png, Bomb.png, Hard.blockは[任天堂](https://www.nintendo.co.jp/wii/vc/vc_kak/vc_kak_03.html)から全て引用<br>
+同フォルダ内のGooey.pngは[Nintendo公式チャンネル](https://www.youtube.com/watch?v=CXEfJ2qdVW8&t=9s)から引用<br>
 
 - backgroundフォルダ
-BackGround.pngは[星のカービィポータル](https://www.kirby.jp/special/extra_aw/thelandscapesofdreamland/)から引用
-Board.pngは[Nintendo公式チャンネル](https://www.youtube.com/watch?v=5vs-a0eLsH0)から引用
-difficulty.pngは[Nintendo公式チャンネル](https://youtu.be/5vs-a0eLsH0?si=NivlCrIddIdgLTTv)から引用し色の編集を行った。
-Ending.pngは[星のカービィポータル](https://www.kirby.jp/special/extra_aw/pupupufriends/)より引用
-ScoreDDD.pngは[Nintendo公式チャンネル](https://youtu.be/90unpm-6IwE?si=UJBdyOEu4Xu7txBC) から引用しゲームに合わせ色付け編集を行った。
-MasterHand(Down/Up/MaxUp/MaxDown).pngの4つは全て[Nintendo公式チャンネル](https://youtu.be/90unpm-6IwE?si=UJBdyOEu4Xu7txBC)から引用しゲームに合わせ色付け編集を行った。
-Pause.pngは[星のカービィ夢の泉の物語取扱説明書](http://setsumei.html.xdomain.jp/famicom/hoshinokirby/hoshinokirby.html#5)より引用
-Title.pngは[星のカービィポータル](https://www.kirby.jp/special/photoframe/)と[星のカービィポータル](https://www.kirby.jp/special/extra_aw/thelandscapesofdreamland/)より引用し、編集を行った。
-Tutorial.pngは[カービィカフェ公式サイト](https://www.hallab.co.jp/products/kirbycafecd/)より引用し、編集も行った。
+BackGround.pngは[星のカービィポータル](https://www.kirby.jp/special/extra_aw/thelandscapesofdreamland/)から引用<br>
+Board.pngは[Nintendo公式チャンネル](https://www.youtube.com/watch?v=5vs-a0eLsH0)から引用<br>
+difficulty.pngは[Nintendo公式チャンネル](https://youtu.be/5vs-a0eLsH0?si=NivlCrIddIdgLTTv)から引用し色の編集を行った。<br>
+Ending.pngは[星のカービィポータル](https://www.kirby.jp/special/extra_aw/pupupufriends/)より引用<br>
+ScoreDDD.pngは[Nintendo公式チャンネル](https://youtu.be/90unpm-6IwE?si=UJBdyOEu4Xu7txBC) から引用しゲームに合わせ色付け編集を行った。<br>
+MasterHand(Down/Up/MaxUp/MaxDown).pngの4つは全て[Nintendo公式チャンネル](https://youtu.be/90unpm-6IwE?si=UJBdyOEu4Xu7txBC)から引用しゲームに合わせ色付け編集を行った。<br>
+Pause.pngは[星のカービィ夢の泉の物語取扱説明書](http://setsumei.html.xdomain.jp/famicom/hoshinokirby/hoshinokirby.html#5)より引用<br>
+Title.pngは[星のカービィポータル](https://www.kirby.jp/special/photoframe/)と[星のカービィポータル](https://www.kirby.jp/special/extra_aw/thelandscapesofdreamland/)より引用し、編集を行った。<br>
+Tutorial.pngは[カービィカフェ公式サイト](https://www.hallab.co.jp/products/kirbycafecd/)より引用し、編集も行った。<br>
