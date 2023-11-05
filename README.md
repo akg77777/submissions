@@ -82,6 +82,7 @@
 |OS|Windows 7 SP1 (64-bit) / Windows 8.1 (64-bit) / Windows 10 (64-bit) / Windows 11|
 |CPU|IntelまたはAMD製のCPU|
 |映像出力|モニタなど、何らかの映像出力装置があること|
+
 <br><br>
 
 ### その他情報
