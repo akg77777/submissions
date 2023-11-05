@@ -5,8 +5,8 @@
 <br></div>
 
 ### 以下リポジトリ内のファイルの説明
-- Executable_file
-ゲームの実行ファイル**Kirby.exe**を保存<br><br>
+- Kirby.exe
+ゲームの実行ファイル<br><br>
 
 - ProgrammerSheet
 プログラマー 作品提出シートを保存<br><br>
