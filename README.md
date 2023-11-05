@@ -11,6 +11,9 @@
 - ProgrammerSheet
 プログラマー 作品提出シートを保存<br><br>
 
+- Explanation.md
+今回の製作作品の説明
+
 - execute_movie.txt
 作品を確認できる動画(YouTube上)をリンクにて記載
 [ここ](https://youtu.be/T7SsR7F00gw)でも確認可能<br><br>
