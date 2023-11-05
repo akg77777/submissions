@@ -1,5 +1,5 @@
 # submissions
-## HAL研究所1day仕事体験提出作品
+## 提出作品
 <div style="text-align: right;">
 北川 太一
 <br></div>
