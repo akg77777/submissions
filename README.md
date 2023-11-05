@@ -1,7 +1,7 @@
 # submissions
 ## HAL研究所1day仕事体験提出作品
 <div style="text-align: right;">
-群馬大学情報学部情報学科<br>3年<br>北川 太一
+北川 太一
 <br></div>
 
 ### 以下リポジトリ内のファイルの説明
