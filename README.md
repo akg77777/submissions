@@ -11,7 +11,7 @@
 - ProgrammerSheet
 プログラマー 作品提出シートを保存<br><br>
 
-- execute_movie
+- execute_movie.txt
 作品を確認できる動画(YouTube上)をリンクにて
 [ここ](https://youtu.be/T7SsR7F00gw)でも確認可能<br><br>
 
