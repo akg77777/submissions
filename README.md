@@ -8,9 +8,6 @@
 - Kirby.exe
 ゲームの実行ファイル<br><br>
 
-- ProgrammerSheet
-プログラマー 作品提出シートを保存<br><br>
-
 - Sourse
 今回製作したゲームのソースコード
 (中のexampleフォルダは用いた画像が入っている、また、画像の引用元はこちらのREADMEの一番下に記載)
