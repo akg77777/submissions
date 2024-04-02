@@ -8,9 +8,8 @@
 - Kirby.exe
 ゲームの実行ファイル<br>
 
-- Sourse
-今回製作したゲームのソースコード
-(中のexampleフォルダは用いた画像が入っている、また、画像の引用元はこちらのREADMEの一番下に記載)
+- Game
+作成したソースコードと用いた画像
   
 - Explanation/Explanation.md
 今回の製作作品の説明
